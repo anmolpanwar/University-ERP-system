@@ -39,7 +39,7 @@ label_0 = Label(root, text="Curriculum",width=20,font=("bold", 20))
 label_0.place(x=90,y=50)
 
 
-label_1 = Label(root, text="Name of the Program",width=20,font=("bold", 10))
+label_1 = Label(root, text="Name of Program",width=20,font=("bold", 10))
 label_1.place(x=70,y=130)
 
 list1 = ['B.Tech','B.Des','M.Tech','MBA','LLB','BCA','PhD','BBA','B.Pharma'];
